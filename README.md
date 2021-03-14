@@ -28,5 +28,4 @@ To run this program:
 > java ivid.java 
 
 
-	      * The program will then run in your command line. Type all responses on the same page and in the same line. All files are saved and updated in 
-~/Downloads/IVIDpkg
+The program will then run in your command line. Type all responses on the same page and in the same line. All files are saved and updated in ~/Downloads/IVIDpkg
