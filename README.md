@@ -22,7 +22,11 @@ To run this program:
    * Files written in this folder upon running program
       * myresourcefile.txt 
 2. Type the following paste in OS Command Line (Mac: Terminal, Windows/Linus, Command Line)
-> cd ~/Downloads/IVIDpkg
-> java ivid.java
+
+> cd ~/Downloads/IVIDpkg 
+
+> java ivid.java 
+
+
 	      * The program will then run in your command line. Type all responses on the same page and in the same line. All files are saved and updated in 
 ~/Downloads/IVIDpkg
